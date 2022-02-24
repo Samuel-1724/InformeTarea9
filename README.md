@@ -39,3 +39,28 @@ El filtro pasivo es un filtro electrónico formado únicamente por elementos pas
 [![4.png](https://i.postimg.cc/zBD6yL84/4.png)](https://postimg.cc/7CcmcZCN)
 
 [![5.jpg](https://i.postimg.cc/qqP1xgHJ/5.jpg)](https://postimg.cc/rR9G8Vp3)
+
+**4. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS DEL PROBLEMA**
+
+**4.1. Ejercicios del Capítulo 17**
+
+**4.2. Ejercicios del Capítulo 18**
+
+ **5. VIDEO**
+
+https://www.youtube.com/watch?v=Lyt69EvbxBE
+
+**6. CONCLUSIONES**
+
+En el noveno informe de tarea vimos con mejor detenimiento el circuito RLC los cuales unen dos componentes que ya vimos tanto en clases como en informes anteriores: bobinas y capacitores. En este informe definimos lo que son cada uno de estos circuitos y cómo funcionan en diferentes áreas. Ayudandonos a mejorar cieros parámetros. Mostramos también las ordenes de cada modelo, teniendo circuitos de primer y segundo orden. De igual forma entendimos cada circuitos en circunstancias de serie y paralelos, incluso con ambas en un solo sistema. Entendimos como se pueden aplicar en la vida real y cuales son sus usos más cotidianos. 
+Luego realizamos los ejercicios propuestos para poder entender mejor a cada circuito. Completando modelos y resolviendo matemáticamente cada fórmula propuesta. Al final logramos entender el uso y la eficacia de cada circuito en diferentes áreas.
+
+**7. BIBLIOGRAFÍA**
+
+Etecé. (5 de Agosto de 2021). concepto. Obtenido de https://concepto.de/circuito-en-serie/
+
+McAllister, W. (3 de Septiembre de 2020). Khan Academy. Obtenido de https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
+
+Nat, S. (23 de Julio de 2012). EcuRed. Obtenido de https://www.ecured.cu/Circuito_en_paralelo
+
+
