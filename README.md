@@ -7,11 +7,11 @@ Informe de Tarea 9: Circuitos RLC y Resonancia, Filtros Pasivos .
 
 **2.1. Objetivo General:**
 
-Comprender el uso de los circuitos RC Y RL. Al igual de cómo se utilizan en la vida diaria.
+Comprender el uso de los circuitos RLC. Al igual de cómo se utilizan en la vida diaria.
 
 **2.2. Objetivos Específicos:**
 
-- Entender las características que poseen los dos circuitos.
+- Entender las características que poseen los circuitos.
 - Definir el uso que se le puede dar.
 - Comprender los nuevos componentes que estos circuitos usan.
 - Realizar los ejercicios de ambos capítulos para tener mejor conocimiento de los temas. 
